@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yuliuyue/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/yuliuyue/Desktop/CodeUsing/opengl &amp; 滤镜/GLTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_ab016ec28cb862d950f5c9163e0bb79cff99a2cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuliuyue/Desktop/CodeUsing/opengl &amp; 滤镜/GLTexture/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5699f847d32ef323ed73cc5a0ac68465fb7db7de">
+        <dex dex="/Users/yuliuyue/Desktop/CodeUsing/opengl &amp; 滤镜/GLTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_081f4394bddeaf1fd9ab9e1fdba2ca282f684c9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yuliuyue/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/yuliuyue/Desktop/camerafilter/GLtext1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_ab016ec28cb862d950f5c9163e0bb79cff99a2cc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yuliuyue/Desktop/CodeUsing/opengl &amp; 滤镜/GLTexture/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yuliuyue/Desktop/CodeUsing/opengl &amp; 滤镜/GLTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cafc42978fa81e1df82b27e12cbe3169b053152e/classes.dex" />
+    </item>
+
+</items>

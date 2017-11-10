@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 52,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 52,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 50,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 50,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 489
+                },
+                "from": {
+                    "file": "/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 494,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 649
+                },
+                "from": {
+                    "file": "/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

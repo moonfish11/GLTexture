@@ -1,0 +1,7 @@
+#Fri Nov 10 09:32:19 CST 2017
+base.0=/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cafc42978fa81e1df82b27e12cbe3169b053152e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_081f4394bddeaf1fd9ab9e1fdba2ca282f684c9b/classes.dex
+base.1=/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_081f4394bddeaf1fd9ab9e1fdba2ca282f684c9b
+file.0=/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cafc42978fa81e1df82b27e12cbe3169b053152e/classes.dex

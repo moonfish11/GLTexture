@@ -1,0 +1,4 @@
+#Fri Nov 10 09:32:19 CST 2017
+base.0=/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_ab016ec28cb862d950f5c9163e0bb79cff99a2cc
+renamed.0=classes.dex
+file.0=/Users/yuliuyue/Desktop/CodeUsing/opengl & 滤镜/GLTexture/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_ab016ec28cb862d950f5c9163e0bb79cff99a2cc/classes.dex
